@@ -19,6 +19,10 @@ title: "Current status of the system 123"
     <h3>System 4</h3>
     <p>Issue has been identified</p>
 </div>
+<div class="release-notes-box border-issue-in-progress">
+    <h3>This was added directly from the github raw file editor mode</h3>
+    <p>Check whether the deployment is happening</p>
+</div>
 
 <script>
     console.log('EXECUTING');
